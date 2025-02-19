@@ -21,7 +21,7 @@ If you had Moneyballs previously running in the browser, clear all browser data 
 ### Step 3: Read the Instructions Carefully
 
 - Carefully follow the instructions in **/README.md**
-- **Important:** the instructions in **README.md** change **significanly** in every module
+- **Important:** the instructions in **README.md** change **significantly** in every module
 - I recommend **deleting** your current **Supabase project** and following the instructions from scratch (each time you download code for a new module)
 - To make the **README.md** file look pretty, either:
   - **Right click** the **README.md** file in **VSCode** and click **Open Preview**
